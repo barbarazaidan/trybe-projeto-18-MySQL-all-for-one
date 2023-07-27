@@ -155,11 +155,17 @@ REQUISITO BÔNUS
 
 **10. Normalize a tabela da planilha SpotifyClone-fav-songs e crie uma tabela no banco de dados**
 
+<details><summary>Detalhes</summary>
+<p>
+
 Seu banco de dados deve seguir as regras de negócio e ser capaz de recuperar:
 
 > Informações sobre as canções favoritas das pessoas usuárias.
 * Uma pessoa usuária pode possuir várias canções favoritas;
 * Uma canção pode ser favoritada por várias pessoas usuárias.
+
+</p>
+</details>
 
 **11. Crie uma QUERY que exibe o top 3 de álbuns com as músicas que mais foram favoritadas. O resultado deve possuir duas colunas:**
 
